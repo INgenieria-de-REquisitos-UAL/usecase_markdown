@@ -38,6 +38,7 @@ and outputs, either to a file or stdout the following github markdown:
 ```
 
 When put into a github wiki page, this produces the following table: 
+
 | Use Case Name | GiveBookStatus |
 | --- | --- |
 | Covers User Stories | US 01.03.01 |
