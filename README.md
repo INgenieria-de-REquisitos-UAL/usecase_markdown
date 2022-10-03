@@ -69,3 +69,14 @@ Notes
 Not all headings must appear in the input. However, all will appear in the generated output. 
 
 This was designed for the purposes of copying a completed table with this headings from Google Docs by selecting the full table, and producing the proper github markdown format. 
+
+
+`````mermaid
+flowchart TD;
+
+%% Trigger event
+ TRIGGER([login]) -->act1[<<<a> actor >>  <br /> User]
+ 
+ 
+`````
+
